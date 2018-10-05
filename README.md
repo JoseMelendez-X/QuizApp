@@ -1,2 +1,2 @@
 # QuizApp
-A Quiz App Developed Using Test Driven Development 
+A Quiz App Developed Using Test Driven Development.
